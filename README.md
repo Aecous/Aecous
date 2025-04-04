@@ -1,5 +1,9 @@
-### Welcome to LiTang 👋
+### 😄 Hello I'm Aecous
 
+- 🤔非常喜欢SAST....（想做出一把梭出漏洞的工具
+- Java安全爱好者（😭This is true web security!
+- 渗透低手（没什么机会打实战...好怕被逮捕...
+- 找工作中..
 <!--
 **Aecous/Aecous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-如果你是龙，也好
-I'm Aecous
-网络安全选手
 
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aecous&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
